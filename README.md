@@ -12,7 +12,7 @@
 ### Project demo:
 
 - Live demo at [https://fundapp-denver.netlify.app](https://fundapp-denver.netlify.app)
-- Video link: [https://vimeo.com/690356296](https://vimeo.com/690356296)
+- Video link: [https://vimeo.com/690357108](https://vimeo.com/690357108)
 
 -------
 
